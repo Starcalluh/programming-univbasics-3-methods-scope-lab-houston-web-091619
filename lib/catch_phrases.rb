@@ -11,7 +11,7 @@ def link
   puts warning
 end
 def any_phrase
-  funnyphase = "Do A Barrel Roll!"
-  puts funnyphase
+  phrase = "Do A Barrel Roll!"
+  puts phrase
 end
   
